@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Topics/Integers in action/How many nuts will be left after division/build/
+/Topics/While loops/The largest element/build/
+/Zookeeper/task/build/

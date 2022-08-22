@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Zookeeper.Topics-Integers_in_action-Declaring_Long.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Desks.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-How_many_nuts_will_be_left_after_division.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Integer division.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Reversing_a_number.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-The_last_digit_of_a_number.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Time_difference.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Time_format.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Underscore.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Unsigned_integers.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-Find_a_keyword.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-I_like_Kotlin.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-Multiple_statements.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-The_eternal_truth.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-The_Hello_World_program.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-Balance_checker.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-Choose_the_correct_ones.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-The_first_position_of_the_largest_element.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-The_largest_element.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-The_length_of_the_sequence.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-The_sequence_1_2_2_3_3_3.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-What_does_the_code_print.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-What_does_the_code_print__1_.main" target="11" />
+      <module name="Zookeeper.util.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-classes-kotlin.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-reports-tests.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-test-results.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task-build-tmp.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
